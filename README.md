@@ -23,3 +23,18 @@ https://www.figma.com/file/9xgTw53U8tXhGZm4QoMQW1/Gallery?type=design&mode=desig
 
 ## Вторая итерация
 Статические данные 10-ти фотографий, которые нужно хранить в переменной. Разметка в HTML файле, минимальное количество стилей в CSS.
+
+
+## URL адреса изображений
+- https://s6.imgcdn.dev/Z0ThK.jpg
+- https://s6.imgcdn.dev/Z1mSN.jpg
+- https://s6.imgcdn.dev/Z1eQv.jpg
+- https://s6.imgcdn.dev/Z1Lgg.jpg
+- https://s6.imgcdn.dev/Z13On.jpg
+- https://s6.imgcdn.dev/Z1d5O.jpg
+- https://s6.imgcdn.dev/Z1WDo.jpg
+- https://s6.imgcdn.dev/Z1ftK.jpg
+- https://s6.imgcdn.dev/Z1VzV.jpg
+- https://s6.imgcdn.dev/Z1Rch.jpg
+- https://s6.imgcdn.dev/Z1qeq.jpg
+- https://s6.imgcdn.dev/Z0lZO.jpg
